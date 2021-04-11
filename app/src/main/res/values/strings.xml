@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">trueorfalsequiz</string>
+    <string name="question1">China has the worlds largest population.</string>
+    <string name="question2">Canada is the largest country in the world.</string>
+    <string name="question3">United States is the second largest country in the world.</string>
+    <string name="question4">Ottawa is the capital of Canada.</string>
+    <string name="question5">Ontario has the largest population out of the ten provinces in Canada.</string>
+    <string name="question_current_number">QUESTION 1</string>
+    <string name="numberOfQuestion">QS: 1-5</string>
+    <string name="firstOption">TRUE</string>
+    <string name="second_option">FALSE</string>
+    <string name="third_option">ANSWER</string>
+    <string name="correct">CORRECT!</string>
+    <string name="incorrect">INCORRECT!</string>
+    <string name="confirm">Are you sure you want to do this?</string>
+    <string name="showAnswer">Show Answer</string>
+    <string name="next_question">NEXT QUESTION</string>
+    <string name="gameover">GAME OVER</string>
+    <string name="final_score">Your Score:</string>
+    <string name="play_again">Play Again</string>
+    <string name="are_you_sure_you_want_to_do_this">Are you sure you want to do this?</string>
+    <string name="show_answer">Show answer</string>
+</resources>
